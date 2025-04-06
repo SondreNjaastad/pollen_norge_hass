@@ -1,0 +1,10 @@
+{
+    "domain": "pollen_varsel",
+    "name": "Pollen Varsel",
+    "version": "1.0.0",
+    "documentation": "https://github.com/SondreNjaastad/pollen_norge_hass",
+    "dependencies": [],
+    "codeowners": ["@SondreNjaastad"],
+    "requirements": ["aiohttp"],
+    "config_flow": true
+}
